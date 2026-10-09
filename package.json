@@ -1,6 +1,6 @@
 {
   "name": "time-range-overlap-detector",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Determines whether two time intervals overlap and returns the intersection duration, useful for scheduling and availability checks.",
   "type": "module",
   "main": "src/index.js",
